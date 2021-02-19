@@ -1,0 +1,21 @@
+#
+target
+logs
+.classpath
+.project
+.settings
+.DS_Store
+.idea
+.svn
+*.iml
+resourceCenter.iml
+.bash_profile
+resourceCenter.ipr
+resourceCenter.iws
+# Node node_modules/ package-lock.json
+package.json
+commitlint.config.js
+*.log
+
+/build/**
+/.gradle/*
